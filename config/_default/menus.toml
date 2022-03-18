@@ -1,0 +1,141 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  identifier = "company"
+  name = "회사소개"
+  url = "company/"
+  weight = 10
+
+[[main]]
+  identifier = "business"
+  name = "사업분야"
+  url = "business/"
+  weight = 20
+
+[[main]]
+  identifier = "products"
+  name = "제품"
+  url = "products/"
+  weight = 30
+
+[[main]]
+  identifier = "contribution"
+  name = "사회공헌"
+  url = "contribution/"
+  weight = 40
+
+
+[[main]]
+  identifier = "company-hello"
+  parent = "company"
+  name = "인사말"
+  url = "company/"
+  weight = 10
+
+[[main]]
+  identifier = "company-history"
+  parent = "company"
+  name = "기업 현황 / 연혁"
+  url = "company/#history"
+  weight = 20
+
+[[main]]
+  identifier = "company-certificates"
+  parent = "company"
+  name = "인증서"
+  url = "company/#certificates"
+  weight = 30
+
+[[main]]
+  identifier = "company-results"
+  parent = "company"
+  name = "사업 실적"
+  url = "company/#results"
+  weight = 40
+
+[[main]]
+  identifier = "company-contact"
+  parent = "company"
+  name = "오시는 길"
+  url = "company/#contact"
+  weight = 50
+
+[[main]]
+  identifier = "business-cctv"
+  parent = "business"
+  name = "영상감시장치"
+  url = "business/cctv/"
+  weight = 10
+
+[[main]]
+  identifier = "business-board"
+  parent = "business"
+  name = "전광판"
+  url = "business/board/"
+  weight = 20
+
+[[main]]
+  identifier = "business-computing"
+  parent = "business"
+  name = "전산업무"
+  url = "business/computing/"
+  weight = 30
+
+[[main]]
+  identifier = "products-solutions"
+  parent = "products"
+  name = "솔루션"
+  url = "categories/solutions/"
+  weight = 10
+
+[[main]]
+  identifier = "products-camera"
+  parent = "products"
+  name = "카메라"
+  url = "categories/camera/"
+  weight = 20
+
+[[main]]
+  identifier = "products-nvr"
+  parent = "products"
+  name = "NVR"
+  url = "categories/nvr/"
+  weight = 30
+
+[[main]]
+  identifier = "products-board"
+  parent = "products"
+  name = "전광판"
+  url = "categories/board/"
+  weight = 40
+
+[[main]]
+  identifier = "products-railguide"
+  parent = "products"
+  name = "열차행선안내장치"
+  url = "categories/railguide/"
+  weight = 50
+
+[[main]]
+  identifier = "contribution-society"
+  parent = "contribution"
+  name = "사회적 기업"
+  url = "contribution/society/"
+  weight = 90
+
+[[main]]
+  identifier = "contribution-public"
+  parent = "contribution"
+  name = "공공기관 우선구매제도"
+  url = "contribution/public/"
+  weight = 100
+
+[[main]]
+  identifier = "contribution-activities"
+  parent = "contribution"
+  name = "사회공헌활동"
+  url = "contribution/activities/"
+  weight = 110

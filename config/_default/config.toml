@@ -1,0 +1,106 @@
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# Title of your site
+title = "NEXTONE"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://www.nextone.co.kr/"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright = "&copy; NEXTONE Corp. All rights reserved."
+
+############################
+## Advanced options below ##
+############################
+
+# Name of Academic theme folder in `themes/`.
+theme = "academic"
+
+# Get last modified date for content from Git?
+enableGitInfo = true
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "ko"
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = true
+removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+# disableLanguages = [ "en" ]
+paginate = 100  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+
+[frontmatter]
+date = ["date", ":git"]
+lastmod = ["date", ":git", "lastmod"]
+publishDate = ["publishDate", "date", ":git"]
+expiryDate = ["expiryDate"]
+
+[[deployment.targets]]
+name = "www.nextone.co.kr"
+URL = "s3://www.nextone.co.kr?region=ap-northeast-2"
+cloudFrontDistributionID = "E3J25AAGVYYHMQ"
+exclude = "{data,docs}/**"
+
+#[[deployment.matchers]]
+## Cache dynamic assets for 7 days.
+#pattern = "^.+\\.(js|css|html|xml|json)$"
+#cacheControl = "max-age=604800, no-transform, public"
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(png|jpg|svg|ico|pdf|dwg|hwp|ppt|pptx|xls|xlsx|doc|docx)$"
+cacheControl = "max-age=31536000, no-transform, public"
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 80
+

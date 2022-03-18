@@ -1,0 +1,17 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+[ko]
+  languageCode = "ko-KR"
+  languageName = "한국어"
+  title = "넥스톤 | NEXTONE"
+  weight = 1
+  [ko.params]
+    company_name = "(주)넥스톤"
+    company_branches = "전국지사"
+    company_contact = "오시는길"
+    company_email = "nextone@nextone.co.kr"
+    company_phone = "02-6675-3630"
+    company_fax = "02-6675-3632"
+    company_address = "[08381] 서울 구로구 디지털로 29길 38, 에이스테크노타워 3차 209호, 211호"

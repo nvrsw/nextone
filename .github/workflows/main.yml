@@ -1,0 +1,33 @@
+name: Deploy website to S3 bucket
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+
+      # Sets up Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.91.2'
+          extended: true
+
+      # Builds www.nextone.co.kr repo
+      - name: Build website
+        run: hugo --minify
+
+      # Deploys built website to S3
+      - name: Deploy to S3
+        run: hugo deploy --maxDeletes -1 --invalidateCDN
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

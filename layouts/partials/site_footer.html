@@ -1,0 +1,25 @@
+<footer class="site-footer">
+  <p>
+    {{ range $.Site.Home.AllTranslations }}
+    <span class="lang-name">
+      {{ if (ne .Language.Lang $.Site.Language.Lang) }}
+        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+      {{ else }}
+        {{ .Language.LanguageName }}
+      {{ end }}
+    </span>
+    {{ end }}
+  </p>
+  <p>
+    <a href="{{ "/company/" | relLangURL }}">{{ site.Params.company_name }}</a>
+    {{ with site.Params.company_contact }} | <a href="{{ "/company/#contact" | relLangURL }}">{{ . }}</a>{{ end }}
+    {{ with site.Params.company_email }} | <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
+    {{ with site.Params.company_phone }} |
+      <a class="d-inline d-sm-none" href="tel:{{ . }}">{{ . }}</a>
+      <span class="d-none d-sm-inline">{{ . }}</a>
+    {{ end }}
+  </p>
+  <p>
+    {{ with site.Copyright }} {{ replace . "{year}" now.Year | markdownify }} {{ end }}
+  </p>
+</footer>

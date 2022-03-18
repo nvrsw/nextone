@@ -1,0 +1,290 @@
+footer {
+  margin: 1rem 0 1rem 0;
+  padding: 0;
+}
+
+footer p {
+  margin: 0;
+}
+
+.lang-name:not(:first-child)::before {
+  content: " | ";
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+a.nav-link:hover,
+a.dropdown-item:hover {
+  background-color: #404040 !important;
+}
+
+.hero-lead a {
+  display: inline-block;
+  margin: 0 auto 0 auto;
+}
+
+.article-header {
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+}
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  background-color: rgba(0,0,0,0.7);
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+  border-radius: 0;
+  font-size: 1.75rem;
+}
+
+.breadcrumb a {
+  color: $sta-menu-text;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-weight: 500;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-left: 0.8rem;
+  border-left: 6px solid #d1121c;
+}
+
+.article-style h3 {
+  font-weight: 500;
+  padding-left: 0.6rem;
+  border-left: 4px solid #d1121c;
+}
+
+#TableOfContents ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#TableOfContents li a.nav-link {
+  color: #404040;
+}
+
+#TableOfContents a.nav-link:hover {
+  background-color: #f8f8f8 !important;
+}
+
+.toc2 {
+  margin: 0 0 3rem 0;
+}
+
+.toc2 #TableOfContents {
+  border: 0;
+  margin: 0 auto;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+}
+
+.toc2 #TableOfContents a.nav-link {
+  margin: 1px;
+  padding: 0.5rem;
+  font-weight: 500;
+}
+
+.toc2 #TableOfContents a.nav-link:hover {
+  background-color: #e5e5e5 !important;
+}
+
+.article-title {
+  font-weight: 500;
+  padding-left: 0.6rem;
+  border-left: 6px solid #eeb300;
+}
+
+#TableOfContents {
+  margin-bottom: 1.5rem;
+}
+
+.home-section,
+.wg-hero {
+  animation: none;
+  animation-delay: unset;
+}
+
+a {
+  transition: none;
+}
+
+table {
+  display: table;
+}
+
+th {
+  white-space: nowrap;
+}
+
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+  vertical-align: middle;
+  padding: 0.5rem 0.38rem;
+  font-size: 0.8rem;
+  line-height: 1.2rem;
+}
+
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > tbody > tr:nth-child(odd) > th,
+table > tbody > tr:hover > th
+{
+  font-weight: 500;
+}
+
+table.spec {
+  border: 1px solid #ddd;
+}
+
+table.spec > thead > tr > th,
+table.spec > tbody > tr > th,
+table.spec > tfoot > tr > th,
+table.spec > thead > tr > td,
+table.spec > tbody > tr > td,
+table.spec > tfoot > tr > td {
+  border: 1px solid #ddd;
+}
+
+table.spec > thead > tr > th,
+table.spec > tbody > tr > th,
+table.spec > tfoot > tr > th,
+table.spec > tbody > tr:nth-child(odd) > th,
+table.spec > tbody > tr:hover > th
+{
+  color: #000000;
+  background-color: #f8f8f8;
+}
+
+table.spec > tbody > tr:not(:hover) > td {
+  background-color: inherit;
+}
+
+.article-style > figure {
+  padding: 1rem;
+}
+
+figcaption {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.badge::before {
+  content: '#';
+}
+
+.media.stream-item img {
+  max-width: 100%;
+}
+
+ul, ol {
+  padding-left: 1.5em;
+}
+
+.article-container {
+  max-width: 1000px;
+}
+
+b, strong {
+  font-weight: 500;
+  border-bottom: 2px solid #eeb300;
+}
+
+td b,
+td strong {
+  border-bottom: inherit;
+}
+
+.card-simple {
+  background: transparent !important;
+  box-shadow: inherit;
+  border-radius: inherit;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,.09);
+  margin: 0;
+  padding: 20px 20px;
+}
+
+.card-simple:first-of-type {
+  border-top: 1px solid rgba(0,0,0,.09);
+}
+
+.card-simple .article-style p {
+  margin-bottom: 0;
+}
+
+.card-simple img {
+  max-width: 90%;
+  margin: 2rem auto 1rem;
+}
+
+.card-simple.col-sm-3 .article-title {
+  font-size: 1.1em;
+}
+.card-simple.col-sm-3 .article-style,
+.card-simple.col-sm-3 .article-metadata {
+  font-size: 0.7em;
+}
+
+.card-simple.col-sm-4 .article-title {
+  font-size: 1.1em;
+}
+.card-simple.col-sm-4 .article-style,
+.card-simple.col-sm-4 .article-metadata {
+  font-size: 0.7em;
+}
+
+.card-simple.col-sm-6 .article-title {
+  font-size: 1.2em;
+}
+.card-simple.col-sm-6 .article-style,
+.card-simple.col-sm-6 .article-metadata {
+  font-size: 0.8em;
+}
+
+.home-section.dark a:not(.btn):not(.hero-cta-alt) {
+  text-decoration: inherit;
+}
+
+.article-style figure {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.featurette-icon > a > i {
+  color: #cfa145;
+}
+
+.featurette-image > a > img {
+  width: 80%;
+  margin: 1rem auto;
+}
+
+.section-heading h1 a {
+  color: #151515;
+  font-weight: 500;
+}
+
+.section-heading p {
+  color: #606060;
+}
+
+.featurette h3 a {
+  color: #151515;
+}

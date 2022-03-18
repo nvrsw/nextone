@@ -1,0 +1,18 @@
+<ol class="breadcrumb col-auto">
+  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+</ol>
+
+{{ define "breadcrumbnav" }}
+{{ if .p1.Parent }}
+  {{ if eq .p1.Parent.Kind "section" }}
+    {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+  {{ end }}
+{{ end }}
+
+{{ if (not .p1.IsPage) }}
+<li class="breadcrumb-item">
+  <a href="{{ .p1.RelPermalink }}">{{ .p1.Title }}</a>
+</li>
+{{ end }}
+
+{{ end }}
