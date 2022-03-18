@@ -84,12 +84,12 @@
   url = "business/computing/"
   weight = 30
 
-[[main]]
-  identifier = "products-solutions"
-  parent = "products"
-  name = "솔루션"
-  url = "categories/solutions/"
-  weight = 10
+#[[main]]
+#  identifier = "products-solutions"
+#  parent = "products"
+#  name = "솔루션"
+#  url = "categories/solutions/"
+#  weight = 10
 
 [[main]]
   identifier = "products-camera"

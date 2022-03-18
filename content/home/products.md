@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "제품"
-subtitle = "솔루션 / 카메라 / NVR / 전광판 / 열차행선안내"
+subtitle = "카메라 / NVR / 전광판 / 열차행선안내"
 url = "products/"
 align = "end"
 
