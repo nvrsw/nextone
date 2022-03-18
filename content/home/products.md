@@ -16,23 +16,23 @@ align = "end"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-# [[feature]]
-#   image = "products/2ub4/featured.png"
-#   url = "products/2ub4/"
-#   name = "NVR 2U B4 Series"
-#   description = "2U 4Bay Storage Type PC based NVR"
-# 
-# [[feature]]
-#   image = "products/2ub8/featured.png"
-#   url = "products/2ub8/"
-#   name = "NVR 2U B8 Series"
-#   description = "2U 8Bay Storage Type PC based NVR"
-#   
-# [[feature]]
-#   image = "products/3ub16/featured.png"
-#   url = "products/3ub16/"
-#   name = "NVR 3U B16 Series"
-#   description = "3U 16Bay Storage Type PC based NVR"
+[[feature]]
+  image = "products/nxt-bs528r/featured.png"
+  url = "products/nxt-bs528r/"
+  name = "NXT-BS528R"
+  description = "5MP, 2.8~12mm, AF 모터줌, SONY STARVIS 네트워크 적외선 뷸렛 카메라"
+
+[[feature]]
+  image = "products/nxt-128b8h/featured.png"
+  url = "products/nxt-128b8h/"
+  name = "NXT-128B8H"
+  description = "4U 8Bay Industrial Storage Type PC based NVR"
+
+[[feature]]
+  image = "products/mcu/featured.png"
+  url = "products/mcu/"
+  name = "주 제어기 (MCU)"
+  description = "Main Control Unit"
 
 [design.background]
   # Apply a background color, gradient, or image.
