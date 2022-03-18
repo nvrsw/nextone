@@ -67,27 +67,14 @@ cascade:
 
 ## 오시는 길 {#contact}
 
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b38d90863b5a02a908e28cc28dccf318"></script>
-<div id="company-map" style="width:100%; height:500px"></div>
-<script>
-  var container = document.getElementById('company-map');
-  var options = {
-    center: new kakao.maps.LatLng(37.4844101022522, 126.893265600121),
-    level: 4,
-    mapTypeId : kakao.maps.MapTypeId.ROADMAP
-  };
-  var map = new kakao.maps.Map(container, options);
-  var mapTypeControl = new kakao.maps.MapTypeControl();
-  map.addControl(mapTypeControl, kakao.maps.ControlPosition.TOPRIGHT);	
-  var zoomControl = new kakao.maps.ZoomControl();
-  map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
-  var marker = new kakao.maps.Marker({
-    position: map.getCenter(),
-    title: '{{< param "company_address" >}}',
-    clickable: true
-  });
-  marker.setMap(map);
-  kakao.maps.event.addListener(marker, 'click', function() {
-    window.open('https://map.kakao.com/link/map/12939518');
-  });
+- 주소: 서울 구로구 디지털로29길 38, 에이스테크노타워3차 209, 211호
+
+<div id="daumRoughmapContainer1580878154123" class="root_daum_roughmap root_daum_roughmap_landing" style="width:100%"></div>
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+<script charset="UTF-8">
+       new daum.roughmap.Lander({
+               "timestamp" : "1580878154123",
+               "key" : "wvbi",
+               "mapHeight" : "450"
+       }).render();
 </script>
