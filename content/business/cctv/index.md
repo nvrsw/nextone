@@ -1,5 +1,5 @@
 ---
-title: "영상 감지 장치"
+title: "영상 감시 장치"
 subtitle: ""
 summary: ""
 authors: []
