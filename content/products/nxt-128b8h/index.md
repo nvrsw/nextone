@@ -1,7 +1,7 @@
 ---
 title: "NXT-128B8H"
-subtitle: "4U 8Bay Industrial Storage Type PC based NVR"
-summary: "4U 8Bay Industrial Storage Type PC based NVR"
+subtitle: "2U 8Bay Storage Type PC based NVR"
+summary: "2U 8Bay Storage Type PC based NVR"
 authors: []
 tags: []
 categories: [ "nvr" ]
@@ -19,12 +19,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="4ub8-front.png" >}}
+{{< figure src="2ub8-front.png" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="4ub8-side.png" >}}
+{{< figure src="2ub8-side.png" >}}
 
 </div>
 </div>
@@ -59,7 +59,7 @@ image:
 
 ## 외관도
 
-{{< figure src="4ub8-drawing.png" >}}
+{{< figure src="2ub8-drawing.png" >}}
 
 </div>
 </div>

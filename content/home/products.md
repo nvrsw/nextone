@@ -26,7 +26,7 @@ align = "end"
   image = "products/nxt-128b8h/featured.png"
   url = "products/nxt-128b8h/"
   name = "NXT-128B8H"
-  description = "4U 8Bay Industrial Storage Type PC based NVR"
+  description = "2U 8Bay Storage Type PC based NVR"
 
 [[feature]]
   image = "products/mcu/featured.png"
