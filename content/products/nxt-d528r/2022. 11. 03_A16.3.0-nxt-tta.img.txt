@@ -1,0 +1,12 @@
+모델명
+- NXT-D528R
+F/W 파일명
+- 릴리즈용 F/W : A16.3.0_20221103_HI_NT_release.img
+- 디버깅용 F/W : A16.3.0_20221103_HI_NT_debugging.img
+F/W 버전정보 
+- 2022. 11. 03_A16.3.0
+해시값
+- Release F/W
+Hash : d4b6a36e98b496c1eda28e5ce0fbed2e7e30ca8088989e0a59f5e6c85b75bb01
+- Debugging F/W
+Hash : b6f9621b1f79cbc9107fa3b5a796c615fbe2ab81002c75d1fa45df44c27237d2
