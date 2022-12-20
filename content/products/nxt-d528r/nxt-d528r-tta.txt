@@ -1,8 +1,7 @@
-모델명
-- NXT-D528R
-F/W 파일명
+Model Name : NXT-D528R
+FirmWare file name :
 - F/W : A16.3.0_20221219_HI_NT
-F/W 버전정보 
+FirmWare version 
 - A16.3.0_20221219
-해시값
+Hash Value
 - Hash : 11fef09789f9ae0543c39c5c1872f39701ba87fb925c0d645909d11e8900e010

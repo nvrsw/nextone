@@ -1,8 +1,0 @@
-Model Name : NXT-D528R
-FirmWare file name :
-- Release F/W : A16.3.0_20221103_HI_NT_release.img
-
-FirmWare version : 2022. 11. 03_A16.3.0
-Hash Value
-- Release F/W
-Hash : d4b6a36e98b496c1eda28e5ce0fbed2e7e30ca8088989e0a59f5e6c85b75bb01
