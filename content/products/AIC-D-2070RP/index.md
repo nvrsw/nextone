@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="AIC-D-2070RP.png" caption="AIC-D-2070RP" >}}
+{{< figure src="AIC-D-2070RP-case.png" caption="AIC-D-2070RP" >}}
 
 </div>
 </div>
@@ -97,6 +97,9 @@ image:
 <tr><th>웹 브라우저 뷰어</th><td>IE11 or Higher (Active-X)
 </td></tr>
 <tr><th># 사양 및 디자인은 사전통보없이 변경될 수 있습니다.</td></tr>
+</tbody>
+</table>
+</div>
 
 ## 다운로드
 
