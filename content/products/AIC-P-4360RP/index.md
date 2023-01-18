@@ -1,12 +1,13 @@
 ---
 title: "AIC-P-4360RP"
-subtitle: "1/1.8 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
-summary: "1/1.8 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
+subtitle: "1/1.8\" 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
+summary: "1/1.8\" 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
 authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2100
+weight: 2010
+date: 2022-07-01
 
 # Featured Image:
 image:
