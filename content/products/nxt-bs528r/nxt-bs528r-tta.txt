@@ -1,7 +1,7 @@
 Model Name : NXT-BS528R
 FirmWare file name :
-- F/W : A16.3.0_20221219_HI_NT
+- F/W : A16.3.0_20230113_HI_NT
 FirmWare version 
-- A16.3.0_20221219
+- A16.3.0_20230113
 Hash Value
-- Hash : 11fef09789f9ae0543c39c5c1872f39701ba87fb925c0d645909d11e8900e010
+- Hash : fe9fc1ecc5cd57026ee567950f991c6a53d9ae9ba4ba737bd5d4ea3feb5d139f

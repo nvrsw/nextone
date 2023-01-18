@@ -65,6 +65,18 @@ image:
 </div>
 </div>
 
+## 인증
+
+<div class="container">
+<div class="row align-items-top">
+
+{{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-22-087)
+
+</div>
+</div>
+
+
+
 ## 개별 사양
 
 <div style="overflow-x: auto">
@@ -375,6 +387,6 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NXT-128B8H_카탈로그20220318.pdf](NXT-128B8H_카탈로그20220318.pdf)
-인증서 | [NXT-128B8H_방송통신기자재등의적합등록필증_20220222.pdf](NXT-128B8H_방송통신기자재등의적합등록필증_20220222.pdf)<br>[NXT-128B8H_방송통신기자재등(전자파적합성)시험성적서_20220222.pdf](NXT-128B8H_방송통신기자재등(전자파적합성)시험성적서_20220222.pdf)
+카탈로그 | [NXT-128B8H_카탈로그_20220318.pdf](NXT-128B8H_카탈로그20220318.pdf)
+인증서 | [NXT-128B8H_방송통신기자재등의적합등록필증_20220222.pdf](NXT-128B8H_방송통신기자재등의적합등록필증_20220222.pdf)<br>[NXT-128B8H_방송통신기자재등(전자파적합성)시험성적서_20220222.pdf](NXT-128B8H_방송통신기자재등(전자파적합성)시험성적서_20220222.pdf)<br>[NXT-128B8H_TTA인증서_20220531.pdf](NXT-128B8H_TTA인증서_20220531.pdf)
 해시 값 | [NXT-128B8H](nvr-2.9.22.3.29-nxt-tta.iso-sha256.txt)

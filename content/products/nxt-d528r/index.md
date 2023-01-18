@@ -51,6 +51,16 @@ image:
 </div>
 </div>
 
+## 인증
+
+<div class="container">
+<div class="row align-items-top">
+
+{{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-V-22-216)
+
+</div>
+</div>
+
 ## 사양
 
 <div style="overflow-x: auto">
@@ -107,5 +117,5 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [NXT-D528R_카탈로그_20220318.pdf](NXT-D528R_카탈로그_20220318.pdf)
-인증서 | [NXT-D528R_방송통신기자재등(전자파적합성)시험성적서_20220125.pdf](NXT-D528R_방송통신기자재등(전자파적합성)시험성적서_20220125.pdf)<br>[NXT-D528R_방송통신기자재등의적합등록필증_20220218.pdf](NXT-D528R_방송통신기자재등의적합등록필증_20220218.pdf)
+인증서 | [NXT-D528R_방송통신기자재등(전자파적합성)시험성적서_20220125.pdf](NXT-D528R_방송통신기자재등(전자파적합성)시험성적서_20220125.pdf)<br>[NXT-D528R_방송통신기자재등의적합등록필증_20220218.pdf](NXT-D528R_방송통신기자재등의적합등록필증_20220218.pdf)<br>[NXT-D528R_TTA인증서_20221213.pdf](NXT-D528R_TTA인증서_20221213.pdf)
 해시 값 | [NXT-D528R](nxt-d528r-tta.txt)

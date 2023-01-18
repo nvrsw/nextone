@@ -1,7 +1,7 @@
 ---
 title: "AIC-P-4360RP"
-subtitle: "1/1.8" 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
-summary: "1/1.8" 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
+subtitle: "1/1.8 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
+summary: "1/1.8 4MP CMOS, 6~216(36배) 줌렌즈, 회전형 네트워크 카메라"
 authors: []
 tags: []
 categories: [ "camera" ]
@@ -100,7 +100,7 @@ image:
 <tr><th>조도 센서</th><td>CDS 센서</td></tr>
 <tr><th>동작 온도</th><td>-30˚C~50˚C / -22˚F~122˚F</td></tr>
 <tr><th>IP 등급</th><td>IP66, IK10</td></tr>
-<tr><th>외형 치수</th><td>226()x362.8(H)[mm]/8.9()x14.3(H)["]/브라켓 제외</td></tr>
+<tr><th>외형 치수</th><td>226()x362.8(H)[mm]/8.9()x14.3(H)[""]/브라켓 제외</td></tr>
 <tr><th>무게</th><td>7 kg / 15.5 Ib / 브라켓 제외</td></tr>
 <tr><th>Input Power</th><td>DC 12V, 3.5A</td></tr>
 <tr><th colspan="2" style="font-size: larger; font-weight: bolder">네트워크</th></tr>
