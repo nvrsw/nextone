@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" caption="NXO-A9081R-01" >}}
+{{< figure src="featured.png" caption="NXT-B3804U1R" >}}
 
 </div>
 </div>
@@ -51,7 +51,7 @@ image:
 
 ## 외관도
 
-{{< figure src="nxt-d528r-drawing.png" >}}
+<!--{{< figure src="nxt-d528r-drawing.png" >}}-->
 
 </div>
 </div>
