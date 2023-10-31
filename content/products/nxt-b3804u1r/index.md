@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="nxt-d528r-case.png" caption="NXO-A9081R-01" >}}
+{{< figure src="featured.png" caption="NXO-A9081R-01" >}}
 
 </div>
 </div>
@@ -62,7 +62,7 @@ image:
 <div class="container">
 <div class="row align-items-top">
 
-# {{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-V-22-216)
+<!--{{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-V-22-216)-->
 
 </div>
 </div>
@@ -74,7 +74,7 @@ image:
 <thead>
 <tr>
 <th>모델</th>
-<th>NXO-A9081R-01</th>
+<th>NXT-B3804U1R</th>
 </tr>
 </thead>
 <tbody>
@@ -127,6 +127,6 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NXT-B3804U1R_카탈로그.pdf](NXT-B3804U1R_카탈로그.pdf)
-인증서 | [NXT-B3804U1R_방송통신기자재등(전자파적합성)시험성적서.pdf](NXT-B3804U1R_방송통신기자재등(전자파적합성)시험성적서.pdf)<br>[NXT-B3804U1R_방송통신기자재등의적합등록필증.pdf](NXT-B3804U1R_방송통신기자재등의적합등록필증.pdf)<br>[NXO-A9081R-01_TTA인증서_.pdf](NXO-A9081R-01_TTA인증서_.pdf)
-해시 값 | [NXO-A9081R-01](nxt-b3804u1r-tta.txt)
+카탈로그 | <!--[NXT-B3804U1R_카탈로그.pdf](NXT-B3804U1R_카탈로그.pdf)-->
+인증서 | [NXT-B3804U1R_방송통신기자재등(전자파적합성)시험성적서.pdf](NXT-B3804U1R_방송통신기자재등(전자파적합성)시험성적서.pdf)<br>[NXT-B3804U1R_방송통신기자재등의적합등록필증.pdf](NXT-B3804U1R_방송통신기자재등의적합등록필증.pdf)<br><!--[NXT-B3804U1R_TTA인증서_.pdf](NXT-B3804U1R_TTA인증서_.pdf)-->
+해시 값 | [NXT-B3804U1R](nxt-b3804u1r-tta.txt)

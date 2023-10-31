@@ -47,7 +47,7 @@ image:
 
 ## 외관도
 
-## {{< figure src="nxt-d528r-drawing.png" >}}
+<!--{{< figure src="nxt-d528r-drawing.png" >}}-->
 
 </div>
 </div>
@@ -58,7 +58,7 @@ image:
 <div class="container">
 <div class="row align-items-top">
 
-## {{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-V-22-216)
+<!--{{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-V-22-216)-->
 
 </div>
 </div>
@@ -123,6 +123,6 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NXT-D528R_카탈로그_20220318.pdf](NXT-D528R_카탈로그_20220318.pdf)
-인증서 | [NXO-A9081R-01_방송통신기자재등(전자파적합성)시험성적서.pdf](NXO-A9081R-01_방송통신기자재등(전자파적합성)시험성적서.pdf)<br>[NXO-A9081R-01_방송통신기자재등의적합등록필증.pdf](NXO-A9081R-01_방송통신기자재등의적합등록필증.pdf)<br>[NXO-A9081R-01_TTA인증서_.pdf](NXO-A9081R-01_TTA인증서_.pdf)
+카탈로그 | <!--[NXT-D528R_카탈로그_20220318.pdf](NXT-D528R_카탈로그_20220318.pdf)-->
+인증서 | [NXO-A9081R-01_방송통신기자재등(전자파적합성)시험성적서.pdf](NXO-A9081R-01_방송통신기자재등(전자파적합성)시험성적서.pdf)<br>[NXO-A9081R-01_방송통신기자재등의적합등록필증.pdf](NXO-A9081R-01_방송통신기자재등의적합등록필증.pdf)<br><!--[NXO-A9081R-01_TTA인증서_.pdf](NXO-A9081R-01_TTA인증서_.pdf)-->
 해시 값 | [NXO-A9081R-01](nxo-a9081r-01-tta.txt)
