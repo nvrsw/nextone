@@ -1,0 +1,8 @@
+Model Name : NXT-P7236N20R
+FirmWare file name :
+- F/W : V13.307B09_20230721_TTA_SECURITY_VERIFIED
+FirmWare version 
+- V13.307B09_20230721
+Hash Value
+- Hash : 5347a744dc190904b3d9c2d2ca1acbee8bbf8c96b4e50139f5e7acdbcd3e5818
+method: SHA-256
