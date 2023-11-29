@@ -5,3 +5,4 @@ FirmWare version
 - A16.3.0_20230113
 Hash Value
 - Hash : fe9fc1ecc5cd57026ee567950f991c6a53d9ae9ba4ba737bd5d4ea3feb5d139f
+method: SHA-256

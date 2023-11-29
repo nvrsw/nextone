@@ -5,3 +5,4 @@ FirmWare version
 - A16.3.0_20221219
 Hash Value
 - Hash : 11fef09789f9ae0543c39c5c1872f39701ba87fb925c0d645909d11e8900e010
+method: SHA-256
