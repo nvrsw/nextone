@@ -5,5 +5,3 @@ FirmWare version
 - V13.307B09_20230721
 Hash Value
 - Hash : 5347a744dc190904b3d9c2d2ca1acbee8bbf8c96b4e50139f5e7acdbcd3e5818
-
-

@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="nxt-p7236n20r-case.png" caption="NXT-P7236N20R" >}}
+{{< figure src="featured.png" caption="NXT-P7236N20R" >}}
 
 </div>
 </div>
@@ -122,5 +122,5 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [NXT-P7236N20R_카탈로그.pdf](NXT-P7236N20R_카탈로그.pdf)
-인증서 | <!--[NXT-P7236N20R_방송통신기자재등(전자파적합성)시험성적서.pdf](필증_08602.pdf)<br>-->[NXT-P7236N20R_방송통신기자재등의적합등록필증.pdf](필증_08602.pdf.pdf)<br>
+인증서 | <!--[NXT-P7236N20R_방송통신기자재등(전자파적합성)시험성적서.pdf](필증_08602.pdf)<br>-->[NXT-P7236N20R_방송통신기자재등의적합등록필증.pdf](필증_08602.pdf)<br>
 해시 값 | [NXT-P7236N20R](nxt-p7236n20r-tta.txt)
