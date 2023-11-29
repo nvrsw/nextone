@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="nxt-p7236n20r-case.png" caption="NXT-P7236N20R" >}}
+{{< figure src="featured.png" caption="NXT-P7236N20R" >}}
 
 </div>
 </div>
@@ -73,12 +73,12 @@ image:
 <thead>
 <tr>
 <th>모델</th>
-<th>NXT-D528R</th>
+<th>NXT-P7236N20R</th>
 </tr>
 </thead>
 <tbody>
 
-<tr><th colspan="2" style="font-size: larger; font-weight: bolder">카메라</th></tr>
+<tr><th colspan="2" style="font-size: larger; font-weight: bolder">카메라부터 수정필요</th></tr>
 <tr><th>이미지 센서</th><td>1/2.8" SONY STARVIS CMOS Image Sensor</td></tr>
 <tr><th>총화소수</th><td>2,704(H) x 2,104(V) 5.69 Megapixel</td></tr>
 <tr><th>유효화소수</th><td>2,616(H) x 1,946(V) 5.14 MegaPixel</td></tr>
@@ -122,5 +122,5 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [NXT-P7236N20R_카탈로그.pdf](NXT-P7236N20R_카탈로그.pdf)
-인증서 | [NXT-P7236N20R_방송통신기자재등(전자파적합성)시험성적서.pdf](필증_08602.pdf)<br>[NXT-P7236N20R_방송통신기자재등의적합등록필증.pdf](필증_08602.pdf.pdf)<br>
+인증서 | <!--[NXT-P7236N20R_방송통신기자재등(전자파적합성)시험성적서.pdf](필증_08602.pdf)<br>-->[NXT-P7236N20R_방송통신기자재등의적합등록필증.pdf](필증_08602.pdf.pdf)<br>
 해시 값 | [nxt-P7236N20R](nxt-P7236N20R-tta)
