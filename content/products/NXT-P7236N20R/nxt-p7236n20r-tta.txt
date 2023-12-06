@@ -1,6 +1,6 @@
 Model Name : NXT-P7236N20R
 FirmWare file name :
-- F/W : V13.307B09.TUS
+- F/W : V13.307B09.tus
 FirmWare version 
 - V13.307B09_T101
 Hash Value
