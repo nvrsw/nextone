@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2010
+weight: 2100
 date: 2024-09-24
 
 # Featured Image:
@@ -20,7 +20,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="NXT-02360TSh-case.png" caption="NXT-02360TSh-case" >}}
+{{< figure src="NXT-02360TSh-case.png" caption="NXT-02360TSH" >}}
 
 </div>
 </div>
@@ -45,7 +45,8 @@ image:
 
 ## 외관도
 
-{{< figure src="NXT-02360TSh-drawing1" >}}
+{{< figure src="NXT-02360TSh-drawing1.png" >}}
+{{< figure src="NXT-02360TSh-drawing2.png" >}}
 
 </div>
 </div>
@@ -117,5 +118,5 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [NXT-02360TSH_카탈로그.pdf](NXT-02360TSH_카탈로그.pdf)
-인증서 | [NXT-02360TSH_전자파성적서.pdf](주식회사 넥스톤_Speed Dome Camera(NXT-02360TSH)_전자파성적서.pdf)<br>[NXT-02360TSH_KC인증서.pdf](주식회사 넥스톤_Speed Dome Camera(NXT-02360TSH)_KC인증서.pdf)<br>
+인증서 | [NXT-02360TSH_전자파성적서.pdf](NXT-02360TSH_전자파성적서.pdf)<br>[NXT-02360TSH_KC인증서.pdf](NXT-02360TSH_KC인증서.pdf)<br>
 해시 값 | [NXT-02360TSH](NXT-02360TSH_해시정보.txt)
