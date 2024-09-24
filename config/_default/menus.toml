@@ -139,3 +139,10 @@
   name = "사회공헌활동"
   url = "contribution/activities/"
   weight = 110
+
+[[main]]
+  identifier = "Customer-Support"
+  parent = "Customer"
+  name = "고객지원"
+  url = "Customer/Support/"
+  weight = 100
