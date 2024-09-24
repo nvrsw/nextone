@@ -119,4 +119,4 @@ image:
 ---- | ----
 카탈로그 | [NXT-02360TSH_카탈로그.pdf](NXT-02360TSH_카탈로그.pdf)
 인증서 | [주식회사 넥스톤_Speed Dome Camera(NXT-02360TSH)_전자파성적서.pdf](주식회사 넥스톤_Speed Dome Camera(NXT-02360TSH)_전자파성적서.pdf)<br>[주식회사 넥스톤_Speed Dome Camera(NXT-02360TSH)_KC인증서.pdf](주식회사 넥스톤_Speed Dome Camera(NXT-02360TSH)_KC인증서.pdf)<br>
-해시 값 | [NXT-02360TSH][NXT-02360TSH_해시정보.txt]
+해시 값 | [NXT-02360TSH](NXT-02360TSH_해시정보.txt)
