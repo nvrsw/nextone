@@ -45,8 +45,7 @@ image:
 
 ## 외관도
 
-{{< figure src="NXT-02360TSh-drawing1.png" >}}
-{{< figure src="NXT-02360TSh-drawing2.png" >}}
+{{< figure src="NXT-02360TSh-drawing1.png", "NXT-02360TSh-drawing2.png" >}}
 
 </div>
 </div>

@@ -1,8 +1,8 @@
-모델명 : NXT-02360TSH
+Model Name : NXT-02360TSH
 
-펌웨어 버전명 : V13.404B03_esca
+FirmWare File name : V13.404B03_esca
 
-해시값 : f823813b3cb993c091d5b192e76ecbd6d0658508d1ebb3910819b5b795388211
+hash Value : f823813b3cb993c091d5b192e76ecbd6d0658508d1ebb3910819b5b795388211
 
 
 
