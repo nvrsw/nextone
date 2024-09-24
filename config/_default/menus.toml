@@ -143,6 +143,6 @@
 [[main]]
   identifier = "Customer-Support"
   parent = "Customer"
-  name = "고객지원"
+  name = "취업규칙"
   url = "Customer/Support/"
   weight = 100
