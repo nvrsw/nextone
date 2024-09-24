@@ -1,9 +1,0 @@
-Model Name : NXT-02360TSH
-
-FirmWare Version Name : V13.404B03_esca
-
-Hash Value : f823813b3cb993c091d5b192e76ecbd6d0658508d1ebb3910819b5b795388211
-
-
-
-
