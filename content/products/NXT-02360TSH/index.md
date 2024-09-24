@@ -118,4 +118,4 @@ image:
 ---- | ----
 카탈로그 | [NXT-02360TSH_카탈로그.pdf](NXT-02360TSH_카탈로그.pdf)
 인증서 | [NXT-02360TSH_전자파성적서.pdf](NXT-02360TSH_전자파성적서.pdf)<br>[NXT-02360TSH_KC인증서.pdf](NXT-02360TSH_KC인증서.pdf)<br>
-해시 값 | [NXT-02360TSH](NXT-02360TSH_hash.txt)
+해시 값 | [NXT-02360TSH_hash](NXT-02360TSH_hash.txt)
