@@ -18,7 +18,7 @@ image:
 
 <div class="container">
 <div class="row justify-content-center align-items-center">
-<div class="col-sm-6">
+<div class="col-sm-4">
 
 {{< figure src="NXT-02360TSh-case.png" caption="NXT-02360TSH" >}}
 
