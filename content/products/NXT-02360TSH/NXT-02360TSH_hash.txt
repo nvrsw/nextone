@@ -1,6 +1,6 @@
 Model Name : NXT-02360TSH
 FirmWare file name :
-- F/W : V13.404B03_T953
+- F/W : V13.404B03_esca
 FirmWare version 
 - V13.404B03_T953
 Hash Value
