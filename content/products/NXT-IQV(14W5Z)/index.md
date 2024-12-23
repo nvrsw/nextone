@@ -54,9 +54,6 @@ image:
 
 <div class="container">
 <div class="row align-items-top">
-
-## {{< figure src="TTA.png" >}} &nbsp;&nbsp;&nbsp;&nbsp; - 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-V-22-216)
-
 </div>
 </div>
 
@@ -67,7 +64,7 @@ image:
 <thead>
 <tr>
 <th>모델</th>
-<th>NXT-D528R</th>
+<th>NXT-IQV(14W5Z)</th>
 </tr>
 </thead>
 <tbody>
@@ -116,4 +113,4 @@ image:
 카탈로그 | [NXT-IQV(14W5Z)_카탈로그_20220318.pdf](NXT-IQV(14W5Z)_카탈로그_20220318.pdf)
 인증서 | [(NXT-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20220125.pdf](NXT-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20220125.pdf)<br>
 [NXT-IQV(14W5Z)_방송통신기자재등의적합등록필증_20220218.pdf](NXT-IQV(14W5Z)_방송통신기자재등의적합등록필증_20220218.pdf)
-해시 값 | [NXT-IQV(14W5Z)](NXT-IQV(14W5Z-tta.txt)
+해시 값 | [NXT-IQV(14W5Z)](nxt-iqv(14w5z)-tta.txt)
