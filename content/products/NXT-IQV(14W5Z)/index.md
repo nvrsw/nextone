@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="NXT-IQV(14W5Z)-case.png" caption="NXT-IQV(14W5Z)" >}}
+{{< figure src="nxt-iqv(14w5z)-case.png" caption="NXT-IQV(14W5Z)" >}}
 
 </div>
 </div>
@@ -38,13 +38,12 @@ image:
 - 방수, 방진 인증 IP66 등급
 - PoE(Power over Ethernet) 지원
 
-
 </div>
 <div class="col-sm-6 pl-0">
 
 ## 외관도
 
-{{< figure src="NXT-IQV(14W5Z)-drawing.png" >}}
+{{< figure src="nxt-iqv(14w5z)-drawing.png" >}}
 
 </div>
 </div>
@@ -54,6 +53,7 @@ image:
 
 <div class="container">
 <div class="row align-items-top">
+
 </div>
 </div>
 
