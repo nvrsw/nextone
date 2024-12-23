@@ -1,0 +1,8 @@
+Model Name : NXT-IQV(14W5Z)
+FirmWare file name :
+- F/W : IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin
+FirmWare version 
+- 6.1.1.20
+Hash Value
+- Hash : 2baa5e991131017b9fe67459f68461e7bda80e8f24673efc3eaa4d360df35a92
+method: SHA-256
