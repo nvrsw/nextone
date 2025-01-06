@@ -1,5 +1,5 @@
 ---
-title: "EM-IQV(14W5Z) 패럿 카메라"
+title: "NXT-IQV(14W5Z) 패럿 카메라"
 subtitle: "5MP Parrot Camera"
 summary: "5MP Parrot Camera"
 authors: []
